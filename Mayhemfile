@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-ceed
+target: ceed
+
+cmds:
+  - cmd: /ceed/src/ceed
