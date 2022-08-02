@@ -2,4 +2,4 @@ project: ceed
 target: ceed
 
 cmds:
-  - cmd: /ceed/src/ceed
+  - cmd: /ceed
