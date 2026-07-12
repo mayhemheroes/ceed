@@ -1,0 +1,8 @@
+project: ceed
+target: ceed
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/ceed/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_ceed
+    libfuzzer: true
