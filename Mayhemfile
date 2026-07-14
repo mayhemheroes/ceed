@@ -1,0 +1,5 @@
+project: ceed
+target: ceed
+
+cmds:
+  - cmd: /ceed
